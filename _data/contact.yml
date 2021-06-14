@@ -1,13 +1,13 @@
 #LinkedIn
 #https://www.linkedin.com/in/{{linkedinusername}}/
-linkdin_username: https://www.linkedin.com/in/acomanzo/
+linkdin_username: /acomanzo
 
 #GitHub
 #https://github.com/{{githubusername}}
-github_username: https://github.com/acomanzo
+github_username: /acomanzo
 
 #https://github.com/{{githubusername}}/{{githubreponame}}
-github_repo: https://github.com/acomanzo/acomanzo.github.io
+github_repo: /acomanzo/acomanzo.github.io
 
 #The email you'd like people to contact you with.
 email: /comanzo.anthony@gmail.com
