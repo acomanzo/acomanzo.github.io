@@ -1,13 +1,13 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Family Tree App
+  description: A full stack project where I made an android app that lets its users create their family trees. 
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: Locanotes
+  description: Another full stack project where users write notes and see other users' notes based on their geographic location. 
 
-- name: Project 3
-  description: A few sentences describing your project.
+- name: C Algorithm Club
+  description: A project to showcase various data structures and algorithms in C. In progress. 
 
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Intro to Rest APIs Workshop
+  description: I gave a workshop on REST APIs to my university's IEEE student chapter.
